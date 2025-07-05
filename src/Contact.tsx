@@ -3,7 +3,7 @@ import './framer/styles.css';
 import NavFramerComponent from './framer/nav';
 import HerocontactFramerComponent from './framer/herocontact';
 import InfoscontactFramerComponent from './framer/infoscontact';
-import FormulairecontactFramerComponent from './framer/Formulairecontact';
+import FormulairecontactFramerComponent from './framer/formulairecontact';
 import FooterFramerComponent from './framer/footer';
 import SocialBubble from './SocialBubble';
 import { ContactUs } from './FormulaireContact';
